@@ -1,4 +1,4 @@
-<p align="center">
-  <div><strong>BrightData Dataset evals flywheel</strong></div>
-  <i>Evals for datasets from the live web, that refreshes regularly</i>
-</p>
+<div align="center">
+  <h1>BrightData Dataset evals flywheel</h1>
+  <p><em>Evals for datasets from the live web, that refreshes regularly</em></p>
+</div>
